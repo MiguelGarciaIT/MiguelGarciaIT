@@ -12,13 +12,13 @@
   - [Network File Shares and Permissions](https://github.com/MiguelGarciaIT/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/MiguelGarciaIT/Building-Intuition-for-DNS)
 
-<h2>🖥️Certifications</h2>
+<h2>🖥️ Certifications:</h2>
 
 - <b>Comptia</b>
   - [Comptia A+](https://github.com/MiguelGarciaIT/a_plus)
 - <b>TryHackMe</b>
 
-<h2>🖱️Badges:</h2>
+<h2>🖱️ Badges:</h2>
 
 - <b>TryHackMe badges and achievements</b>
   - [Linux Fundamentals]
