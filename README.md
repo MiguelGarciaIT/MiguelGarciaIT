@@ -12,6 +12,11 @@
   - [Network File Shares and Permissions](https://github.com/MiguelGarciaIT/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/MiguelGarciaIT/Building-Intuition-for-DNS)
 
+<h2>Badges:</h2>
+
+- <b>TryHackMe badges and achievements</b>
+  - [Linux Fundamentals](https://github.com/MiguelGarciaIT/badges)
+
 <h2>🤳Connect with me:</h2>
 
 
