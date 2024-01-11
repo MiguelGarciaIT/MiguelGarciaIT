@@ -15,7 +15,7 @@
 <h2>🖥️Certifications</h2>
 
 - <b>Comptia</b>
-  - [Comptia A+]
+  - [Comptia A+](https://github.com/MiguelGarciaIT/a_plus)
 - <b>TryHackMe</b>
 
 <h2>🖱️Badges:</h2>
