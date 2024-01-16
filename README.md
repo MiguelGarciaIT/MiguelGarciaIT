@@ -18,11 +18,6 @@
   - [Comptia A+](https://github.com/MiguelGarciaIT/a_plus)
 - <b>TryHackMe</b>
 
-<h2>🖱️ Badges:</h2>
-
-- <b>TryHackMe badges and achievements</b>
-  - [Linux Fundamentals]
-
 <h2>🤳Connect with me:</h2>
 
 
