@@ -17,9 +17,6 @@
 - <b>Comptia</b>
   - [Comptia A+](https://github.com/MiguelGarciaIT/a_plus)
   - [Comptia Network+](https://github.com/MiguelGarciaIT/network-)
-- <b>TryHackMe</b>
-  - [Pre Security](https://github.com/MiguelGarciaIT/pre-security)
-  - [Intro To Cyber Security](https://github.com/MiguelGarciaIT/intro-to-cyber)
 
 <h2>🤳Connect with me:</h2>
 
