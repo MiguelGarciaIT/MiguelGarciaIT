@@ -14,7 +14,7 @@
 
 <h2>🖥️ Certifications:</h2>
 
-- <b>Comptia</b>
+- <b>CompTIA</b>
   - [Comptia A+](https://github.com/MiguelGarciaIT/a_plus)
   - [Comptia Network+](https://github.com/MiguelGarciaIT/network-)
 
