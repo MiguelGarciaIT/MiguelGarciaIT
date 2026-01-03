@@ -1,4 +1,4 @@
-<h1>Hi, I'm Miguel, an <a href="https://www.linkedin.com/in/miguel-garcia-8a3002291/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Miguel, an <a href="https://www.linkedin.com/in/miguel-alejandro-garcia-8a3002291/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
