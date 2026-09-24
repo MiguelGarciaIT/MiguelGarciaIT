@@ -25,5 +25,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/miguel-garcia-8a3002291/
-
+[linkedin]: https://www.linkedin.com/in/miguel-alejandro-garcia-7115503a8/
